@@ -1,2 +1,2 @@
 # benchmark-sample
-Sample to use benchmark package
+Sample to use [benchmark package](https://github.com/bestiejs/benchmark.js/)
