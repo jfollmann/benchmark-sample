@@ -1,0 +1,17 @@
+{
+  "name": "benchmark-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:array": "node src/benchmark-array.js",
+    "run:string": "node src/benchmark-string.js",
+    "run:string-index": "node src/benchmark-string-index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
